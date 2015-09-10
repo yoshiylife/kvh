@@ -1,2 +1,1 @@
-# kvs
-Display to change log for KVS
+Change log function
